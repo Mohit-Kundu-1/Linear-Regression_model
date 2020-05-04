@@ -14,8 +14,7 @@ The bias coefficient gives an extra degree of freedom to this model. The goal is
 
 But how do we find these coefficients, We can find these using different approaches. One is the Ordinary Least Mean Square Method approach and the Gradient Descent approach. 
 
-We will be implementing the Ordinary Least Mean Square Method.
-
+We will be implementing both the approaches here.
 
 This repository is to implement linear regression algorithm without the use of scikit-learn python library.
 
