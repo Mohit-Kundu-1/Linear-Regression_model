@@ -3,7 +3,7 @@ Creating Linear Regression Model from Scratch
 
 Linear Regression is a method used to define a relationship between a dependent variable (Y) and independent variable (X).
 
-Which is simply written as :
+Which is simply written as :-
 
 **y = mx + b**
 
