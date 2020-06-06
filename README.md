@@ -16,5 +16,7 @@ But how do we find these coefficients, We can find these using different approac
 
 We will be implementing both the approaches here
 
+![](image3.png)
+
 This repository is to implement linear regression algorithm without the use of scikit-learn python library.
 
