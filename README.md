@@ -16,9 +16,9 @@ But how do we find these coefficients, We can find these using different approac
 
 We will be implementing both the approaches here
 
-![](image/image3.png)
+![](images/image3.png)
 
-![](image/image4.png)
+![](images/image4.png)
 
 This repository is to implement linear regression algorithm without the use of scikit-learn python library.
 
