@@ -5,9 +5,9 @@ Linear Regression is a method used to define a relationship between a dependent 
 
 Which is simply written as :-
 
-**y = mx + b**
+>**y = mx + b**
 
-Where y is the dependent variable, m is the scale factor or coefficient, b being the bias coefficient and X being the independent variable.
+>Where y is the dependent variable, m is the scale factor or coefficient, b being the bias coefficient and X being the independent variable.
 
 The bias coefficient gives an extra degree of freedom to this model. The goal is to draw the line of best fit between X and Y which estimates the relationship between X and Y.
 
