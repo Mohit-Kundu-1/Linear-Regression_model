@@ -1,3 +1,5 @@
+<img src="https://github.com/favicon.ico" width="48">
+
 # Linear Regression model
 Creating Linear Regression Model from Scratch
 
