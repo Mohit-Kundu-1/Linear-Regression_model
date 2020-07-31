@@ -1,7 +1,5 @@
-<img src="https://github.com/favicon.ico" width="48">
-
 # Linear Regression model
-Creating Linear Regression Model from Scratch
+**Creating Linear Regression Model from Scratch**
 
 Linear Regression is a method used to define a relationship between a dependent variable (Y) and independent variable (X).
 
